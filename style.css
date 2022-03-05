@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+#status, #detect, #start{
+    font-size: 18px;
+}
+canvas{
+    border: 20px solid whitesmoke;
+    border-radius: 20px;
+    bottom: 0;
+    box-shadow: 5px 5px 5px grey;
+}
+#heading{
+    margin: 100%;
+    bottom: 0;
+}
